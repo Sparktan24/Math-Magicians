@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Math Magicians] <a name="about-project"></a>
 
 **Math magicians**
 "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
