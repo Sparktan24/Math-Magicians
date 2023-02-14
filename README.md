@@ -53,9 +53,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Git Flow]**
-- **[Good HTML, CSS and JS practices]**
-- **[ES6, modules]**
+- **Git Flow**
+- **Good HTML, CSS and JS practices**
+- **ES6, modules**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,7 +155,7 @@ I would like to thank... -->
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ<a name="faq"></a>
 
 - **Can I use the project for any purpose?**
 
