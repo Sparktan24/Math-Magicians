@@ -6,39 +6,52 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 JavaScript Group Project
+# 📖 [your_project_name] <a name="about-project"></a>
 
+**Math magicians**
 "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 
 - Make simple calculations.
 - Read a random math-related quote.
 
-## Built With
+## 🛠 Built With <a name="built-with"></a>
 
 - HTML, CSS, JavaScript(React)
 - VSCode and GitHub
 - Webpack
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Tech Stack <a name="tech-stack"></a>
 
-## Live Demo
-
-[Live Demo Link](Not available)
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
-### Key Features
+### Key Features <a name="key-features"></a>
 
 - **[Git Flow]**
 - **[Good HTML, CSS and JS practices]**
@@ -46,43 +59,53 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](Coming soon)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started
+## 💻 Getting Started <a name="getting-started"></a>
 
-Clone this repository to get started with the project, make sure to configure linters by following the instructions in the [Linters README file](https://github.com/microverseinc/linters-config/blob/master/README.md)
+To get a local copy up and running, follow these steps.
 
 ### Setup
 
-- Clone the folder to your local machine.
-- Open a local copy of the project in your code editor.
-- Open the index.html file from the **/dist** folder in your browser.
-- Run <code>npm install</code> to install all dev dependencies for Linters, Webpack & Babel.
+- Clone this repository to your desired folder:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Install
+
+Install this project with:
+
+- Open terminal in the project folder and run <code>npm install</code> command.
 
 ### Usage
 
-- To run the project, execute the following command:
+To run the project, execute the following command:
 
-  - <code>npm run start</code> in your terminal.
-
-- To run test functions, execute the following command:
-
-  - <code>npm test</code> in your terminal.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- Open terminal in the project folder and run <code>npm run</code> command.
 
 ### Run tests
 
-- After pushing the changes on github, merge your pull request and let github action process changes and fix errors, if any.
-- For stylelint errors run:<code>sudo npx stylelint "\*_/_.{css,scss}" --fix</code> for automatic fix.
+To run tests, run the following command:
+
+- Open terminal in the project folder and run <code>npm test</code> command.
+
+### Deployment
+
+You can deploy this project using:
+
+- Open terminal in the project folder and run <code>npm run build</code> command.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors
+## 👥 Authors <a name="authors"></a>
 
 👤 **Jesus Molina**
 
@@ -101,28 +124,49 @@ Clone this repository to get started with the project, make sure to configure li
 - [ ] **[Super nice styles will be added in the future]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ashmalzahra/group-capstone-project/issues).
+Feel free to check the [issues page](https://github.com/Sparktan24/Math-Magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+<!-- ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank... -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **Can I use the project for any purpose?**
+
+  - Yes, you can use and modify this project for anything you wish as long as you give the corresponding credit.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
 
-## 📝 License
+## 📝 License <a name="license"></a>
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
