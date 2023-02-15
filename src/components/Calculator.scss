@@ -21,7 +21,7 @@
     height: 50vh;
     display: grid;
     grid-template-rows: repeat(6, 1fr);
-    box-shadow: 0px 5px 18px 1px #9b8f8f;
+    box-shadow: 0 5px 18px 1px #9b8f8f;
 
     td {
       padding: 0;
@@ -48,5 +48,5 @@
 }
 
 .orange {
-  background: #F5913E;
+  background: #f5913e;
 }
